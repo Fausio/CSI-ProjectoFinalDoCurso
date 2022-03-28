@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T12:12:10.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.55" etag="gKkKPg5tevd5GAtrS4dm" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-28T12:12:58.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.55" etag="ALFNKsd4BPiV_1C1krfV" version="17.2.4" type="github">
   <diagram id="s6_nRDlQCmPShkvrPcbQ" name="Page-1">
     <mxGraphModel dx="2087" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5fa_a021BqQA7TK3NSrM-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="5fa_a021BqQA7TK3NSrM-8" target="5fa_a021BqQA7TK3NSrM-56">
+        <mxCell id="5fa_a021BqQA7TK3NSrM-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5fa_a021BqQA7TK3NSrM-8" target="5fa_a021BqQA7TK3NSrM-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="750" y="180" />
@@ -92,8 +92,8 @@
         <mxCell id="5fa_a021BqQA7TK3NSrM-8" value="Ativista chefe" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="150" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5fa_a021BqQA7TK3NSrM-13" value="Sistema de Monitoria e avaliação de dados TARV" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="250" width="290" height="30" as="geometry" />
+        <mxCell id="5fa_a021BqQA7TK3NSrM-13" value="Sistema de Monitoria e avaliação de dados TARV" style="text;whiteSpace=wrap;html=1;strokeWidth=5;rounded=0;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="250" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5fa_a021BqQA7TK3NSrM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5fa_a021BqQA7TK3NSrM-15">
           <mxGeometry relative="1" as="geometry">
